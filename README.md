@@ -17,7 +17,7 @@ Além disso, sou **torcedor do Santos FC ⚽**, unindo paixão e dedicação tan
 
 ## 📫 Contato
 
-- **LinkedIn:** [linkedin.com/in/julionascimento]([https://linkedin.com/in/julionascimento](https://www.linkedin.com/in/julio-nascimento-438a54300))  
+- **LinkedIn:** https://www.linkedin.com/in/julio-nascimento-438a54300
 - **E-mail:** juliosontag@gmail.com  
 
 
