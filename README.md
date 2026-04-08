@@ -11,7 +11,6 @@ Meu nome é **Julio Nascimento** — Estudante de Engenharia de Software na UTFP
 
 Sou estudante de **Engenharia de Software**, atualmente focado em aprender ferramentas de desenvolvimento web **HTML, CSS, JavaScript, React, Node**, criando projetos para aprimorar minhas habilidades no front-end.  
 Tenho grande interesse em **desenvolvimento web**, **boas práticas de código** e tudo que envolve a construção de interfaces modernas e responsivas.  
-Além disso, sou **torcedor do Santos FC ⚽**, unindo paixão e dedicação tanto no futebol quanto na programação.  
 
 ---
 
